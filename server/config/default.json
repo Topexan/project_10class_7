@@ -1,0 +1,7 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "",
+  "secretKey": "mern-secket-key",
+  "filePath": "C:\\Users\\noname\\Desktop\\mern-cloud-disk\\server\\files",
+  "staticPath": "C:\\Users\\noname\\Desktop\\mern-cloud-disk\\server\\static"
+}
